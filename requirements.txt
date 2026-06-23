@@ -1,0 +1,15 @@
+streamlit
+folium
+streamlit-folium
+pandas
+numpy
+Pillow
+scikit-learn
+requests
+python-dotenv
+geopy
+shapely
+rasterio
+sentinelhub
+joblib
+plotly
